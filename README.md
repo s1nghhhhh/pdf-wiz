@@ -1,4 +1,6 @@
 # pdf-wiz
+checkitout here: <a href="pdf-wiz.streamlit.app"> pdf-wiz</a>
+
 chat with multiple pdfs along with added conversational memory to maintain chat history and context
   <br>     -used streamlit for gui and python for backend 
   <br>     -integrated <a href="https://console.groq.com/keys">GROQ's</a> LLM api to empower the application with advanced capabilities for processing natural language queries directly from uploaded PDF files.
