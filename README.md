@@ -1,5 +1,5 @@
 # pdf-wiz
-checkitout here: <a href="pdf-wiz.streamlit.app"> pdf-wiz</a>
+check it out here: <a href="https://pdf-wiz.streamlit.app"> pdf-wiz</a>
 
 chat with multiple pdfs along with added conversational memory to maintain chat history and context
   <br>     -used streamlit for gui and python for backend 
