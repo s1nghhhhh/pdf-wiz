@@ -8,4 +8,8 @@ chat with multiple pdfs along with added conversational memory to maintain chat 
   <br>     -utilized PyPDF2 package for extracting text from uploaded PDFs and splitting them into manageable chunks for processing
   <br>     -upload multiple pdfs at a time
 
+
+TO USE IT ON YOUR OWN SYSTEM:
+<li> Clone the repo </li>
+<li> Create a virtual environment</li>
 [pdf-wiz.webm](https://github.com/s1nghhhhh/pdf-wiz/assets/82044361/6a13aaf7-b9d7-46ff-a390-8883f62daa6f)
