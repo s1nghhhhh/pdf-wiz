@@ -10,8 +10,8 @@ chat with multiple pdfs along with added conversational memory to maintain chat 
 
 
 to use it on your own system:
-<br> - clone the repo
-<br> - create and activate a virtual environment
+<br> - [] clone the repo
+<br> - [] create and activate a virtual environment
 <br> - install dependencies using pip install -r requirements.txt
 <br> - create .env file
 <br> - get an API key from <a href = "https://console.groq.com/keys"> GROQ CLOUD </a>
