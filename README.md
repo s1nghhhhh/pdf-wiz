@@ -9,7 +9,11 @@ chat with multiple pdfs along with added conversational memory to maintain chat 
   <br>     -upload multiple pdfs at a time
 
 
-TO USE IT ON YOUR OWN SYSTEM:
-<li> Clone the repo </li>
-<li> Create a virtual environment</li>
+to use it on your own system:
+<br> - clone the repo
+<br> - create a virtual environment
+<br> - install dependencies using pip install -r requirements.txt
+<br> - create .env file
+<br> - get an API key from <a href = "https://console.groq.com/keys"> GROQ CLOUD </a>
+<br> - store API key in .env file using GROQ_API_KEY_GIT = "<i> api key goes here </i> "
 [pdf-wiz.webm](https://github.com/s1nghhhhh/pdf-wiz/assets/82044361/6a13aaf7-b9d7-46ff-a390-8883f62daa6f)
