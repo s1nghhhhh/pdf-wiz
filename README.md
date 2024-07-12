@@ -18,4 +18,8 @@ to use it on your own system:
 <br> - store API key in .env file using **GROQ_API_KEY_GIT** = "<i> api key goes here (without quotes)</i> "
 <br> - in the terminal type _streamlit run app.py_
 <br>
+
+
+
+
 [pdf-wiz.webm](https://github.com/s1nghhhhh/pdf-wiz/assets/82044361/6a13aaf7-b9d7-46ff-a390-8883f62daa6f)
